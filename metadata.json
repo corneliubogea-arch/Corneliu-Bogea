@@ -1,0 +1,7 @@
+{
+  "name": "Raport de Mentenanță Eco Life Style",
+  "description": "A web application for Eco Life Style technicians to generate maintenance and non-conformity reports for the Green Pack waste sorting station. The app allows for logging issues, attaching photos, and generating AI-powered recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
